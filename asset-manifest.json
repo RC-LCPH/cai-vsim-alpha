@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cai-vsim-alpha/static/css/main.312f5982.css",
+    "main.js": "/cai-vsim-alpha/static/js/main.27ced847.js",
+    "static/media/screenshot.png": "/cai-vsim-alpha/static/media/screenshot.d273018d63fe4592859c.png",
+    "static/media/EdithJacobson.png": "/cai-vsim-alpha/static/media/EdithJacobson.d319733dcd4be302b508.png",
+    "static/media/EdithJacobson_speaks.png": "/cai-vsim-alpha/static/media/EdithJacobson_speaks.b4b111b44fb965e69a22.png",
+    "static/media/Laerdal_logo.png": "/cai-vsim-alpha/static/media/Laerdal_logo.8df8d2cf965fe3466cce.png",
+    "static/media/button3press_hold.png": "/cai-vsim-alpha/static/media/button3press_hold.760aac540667d913fe4c.png",
+    "static/media/button1.png": "/cai-vsim-alpha/static/media/button1.f7239c163d13e92343ff.png",
+    "index.html": "/cai-vsim-alpha/index.html",
+    "main.312f5982.css.map": "/cai-vsim-alpha/static/css/main.312f5982.css.map",
+    "main.27ced847.js.map": "/cai-vsim-alpha/static/js/main.27ced847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.312f5982.css",
+    "static/js/main.27ced847.js"
+  ]
+}
